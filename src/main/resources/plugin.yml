@@ -1,0 +1,4 @@
+name: TailCatch
+version: '${project.version}'
+main: kr.vanilage.tailcatch.TailCatch
+api-version: '1.16'
